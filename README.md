@@ -5,6 +5,9 @@
 
 
 # 使用方式：
+
 -- script location:
+
 -- linux: .local/lib/wireshark/plugins/
+
 -- win: %APPDATA%\Wireshark\plugins
